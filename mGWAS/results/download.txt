@@ -1,0 +1,3 @@
+GWAS summary statistics from PLINK can be downloaded on: 
+
+XXXXX
