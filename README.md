@@ -1,1 +1,1 @@
-# A multiomic integration analysis reveals novel immune-related genes associated to atherogenic metabolites and cardiovascular diseases
+# Multiomic integration analysis identifies atherogenic metabolites mediating between novel immune genes and cardiovascular risk
